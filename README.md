@@ -66,7 +66,7 @@ If desired, you can rename the "logo.svg" file to any name that suits your prefe
 
 
 ## Installation Process
-1. Clone the repository:(https://tanderson757.github.io/svg-logo-maker/)
+1. Clone the repository:(https://github.com/Tanderson757/logomaker)
 2. Install the following: 
 - Node.JS [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
 - Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
